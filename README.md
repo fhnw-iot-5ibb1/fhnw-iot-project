@@ -2,7 +2,7 @@
 ## Project MY_TEAM_PROJECT_TITLE
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Create your copy or join a team by clicking this GitHub Classroom link](https://classroom.github.com/g/gALXMYRD).*
+> *[Create your copy or join a team by clicking this GitHub Classroom link](https://classroom.github.com/g/O6SKArpl).*
 
 ## Introduction
 This project is part of the [IoT Engineering](../../../fhnw-iot) course.
